@@ -9,6 +9,4 @@ flask-sqlalchemy = "*"
 flask-migrate = "*"
 pytest = "*"
 faker = "*"
-
-[requires]
-python_version = "3.8.13"
+flask-cors = "*"
