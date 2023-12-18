@@ -10,3 +10,4 @@ flask-migrate = "*"
 pytest = "*"
 faker = "*"
 flask-cors = "*"
+
